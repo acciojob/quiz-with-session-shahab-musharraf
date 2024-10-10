@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#questions {
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+
+#score {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
